@@ -1,5 +1,5 @@
 # dbn_pytorch
-用Pytorch 实现dbn 如果有别的问题，请联系我qq2932576165
+用Pytorch 实现dbn 如果有别的问题，请联系我
 
 要求的包 pytorch, numpy ,tqdm
 
